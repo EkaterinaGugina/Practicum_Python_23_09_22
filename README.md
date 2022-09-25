@@ -36,7 +36,7 @@ Ex9. Напишите программу, которая выводит нече
 
 Выполнение программы:
 
-![пример 1](HomeWork_23_09_22\Ex1_weekday.png)
+![пример 1](https://github.com/EkaterinaGugina/Practicum_Python_23_09_22/blob/main/HomeWork_23_09_22/Ex1_weekday.png)
 
 
 ### Ex2_quart_Dekart. Напишите программу, которая принимает на вход координаты точки (X и Y), причём X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, в которой находится эта точка (или на какой оси она находится).
@@ -51,13 +51,13 @@ Ex9. Напишите программу, которая выводит нече
 
 Выполнение программы:
 
-![пример 2](HomeWork_23_09_22\Ex2_quart_Dekart.png)
+![пример 2](https://github.com/EkaterinaGugina/Practicum_Python_23_09_22/blob/main/HomeWork_23_09_22/Ex2_quart_Dekart.png)
 
 ### Ex3_point_quart_Decart. Напишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
 
 Выполнение программы:
 
-![пример 3](HomeWork_23_09_22\Ex3_point_quart_Dekart.png)
+![пример 3](https://github.com/EkaterinaGugina/Practicum_Python_23_09_22/blob/main/HomeWork_23_09_22/Ex3_point_quart_Dekart.png)
 
 ### Ex4_modul_vector. Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 2D пространстве.
 
@@ -69,10 +69,10 @@ Ex9. Напишите программу, которая выводит нече
 
 Выполнение программы:
 
-![пример 4](HomeWork_23_09_22\Ex4_modul_vector.png)
+![пример 4](https://github.com/EkaterinaGugina/Practicum_Python_23_09_22/blob/main/HomeWork_23_09_22/Ex4_modul_vector.png)
 
 ### Ex5_dop_sum_num_real (дополнительная).s Напишите программу, которая будет принимать на вход вещественное число и выводит сумму цифр этого числа (решить без использования списка).
 
 Выполнение программы:
 
-![дополнительный пример 5](HomeWork_23_09_22\Ex5_dop_sum_num_real.png)
+![дополнительный пример 5](https://github.com/EkaterinaGugina/Practicum_Python_23_09_22/blob/main/HomeWork_23_09_22/Ex5_dop_sum_num_real.png)
