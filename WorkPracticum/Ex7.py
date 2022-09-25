@@ -2,6 +2,7 @@
 n = input("Введите число: ")
 res = 0
 for i in n:
-    if i != "." and i != ",":
+    # if i != "." and i != ",":
+    if i not in {'.', ','}:
         res += int(i)
 print('Сумма цифр, входящих в это число равна ', res)
